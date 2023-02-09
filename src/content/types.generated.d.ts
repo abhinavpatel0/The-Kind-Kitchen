@@ -41,73 +41,52 @@ declare module 'astro:content' {
 		}>;
 	};
 
-	const entryMap: {
+		const entryMap: {
 		"blog": {
-"14-architectural-design-ideas-for-spacious-interior.md": {
-  id: "14-architectural-design-ideas-for-spacious-interior.md",
-  slug: "14-architectural-design-ideas-for-spacious-interior",
-  body: string,
-  collection: "blog",
-  data: any
-},
-"complete-guide-fullstack-development.md": {
-  id: "complete-guide-fullstack-development.md",
-  slug: "complete-guide-fullstack-development",
-  body: string,
-  collection: "blog",
-  data: any
-},
-"essential-data-structures-algorithms.md": {
-  id: "essential-data-structures-algorithms.md",
-  slug: "essential-data-structures-algorithms",
-  body: string,
-  collection: "blog",
-  data: any
-},
-"every-next-level-of-your-life-will-demand-a-different-you.md": {
-  id: "every-next-level-of-your-life-will-demand-a-different-you.md",
-  slug: "every-next-level-of-your-life-will-demand-a-different-you",
-  body: string,
-  collection: "blog",
-  data: any
-},
-"how-to-become-frontend-master.md": {
-  id: "how-to-become-frontend-master.md",
-  slug: "how-to-become-frontend-master",
-  body: string,
-  collection: "blog",
-  data: any
-},
-"kitchensink.mdx": {
-  id: "kitchensink.mdx",
-  slug: "kitchensink",
-  body: string,
-  collection: "blog",
-  data: any
-},
-"nothing-new-about-undermining-women-autonomy.md": {
-  id: "nothing-new-about-undermining-women-autonomy.md",
-  slug: "nothing-new-about-undermining-women-autonomy",
-  body: string,
-  collection: "blog",
-  data: any
-},
-"template.md": {
-  id: "template.md",
-  slug: "template",
-  body: string,
-  collection: "blog",
-  data: any
-},
-"this-bread-pudding-will-give-you-all-the-fall-feels.md": {
-  id: "this-bread-pudding-will-give-you-all-the-fall-feels.md",
-  slug: "this-bread-pudding-will-give-you-all-the-fall-feels",
-  body: string,
-  collection: "blog",
-  data: any
-},
-},
 
+"Vegan-Smoothie-Bowl.md": {
+  id: "Vegan-Smoothie-Bowl.md",
+  slug: "Vegan-Smoothie-Bowl",
+  body: string,
+  collection: "blog",
+  data: any
+},
+"Vegan-tofu-scramble-with-veggies.md": {
+  id: "Vegan-tofu-scramble-with-veggies.md",
+  slug: "Vegan-tofu-scramble-with-veggies",
+  body: string,
+  collection: "blog",
+  data: any
+},
+"example-post.md": {
+  id: "example-post.md",
+  slug: "example-post",
+  body: string,
+  collection: "blog",
+  data: any
+},
+"vegan-avocado-toast.md": {
+  id: "vegan-avocado-toast.md",
+  slug: "vegan-avocado-toast",
+  body: string,
+  collection: "blog",
+  data: any
+},
+"vegan-lentil-soup.md": {
+  id: "vegan-lentil-soup.md",
+  slug: "vegan-lentil-soup",
+  body: string,
+  collection: "blog",
+  data: any
+},
+"vegan-pencakes-with-Fresh-Berries.md": {
+  id: "vegan-pencakes-with-Fresh-Berries.md",
+  slug: "vegan-pencakes-with-Fresh-Berries",
+  body: string,
+  collection: "blog",
+  data: any
+},
+},
 	};
 
 	type ContentConfig = never;
